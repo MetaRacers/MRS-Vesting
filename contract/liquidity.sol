@@ -1,9 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-06-29
- */
-
-// File: @openzeppelin/contracts/math/SafeMath.sol
-
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.6.0;
