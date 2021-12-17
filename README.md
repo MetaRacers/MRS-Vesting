@@ -1,7 +1,7 @@
 # The address owner for MRS claim
 
 1.    28% token game reward:  
-SmartContract : 0x08B59BD90a0ce51EfdcEB6066D1854204d41DE9b
+**SmartContract :** 0x08B59BD90a0ce51EfdcEB6066D1854204d41DE9b
 Address Owner : 0x684c889D174fC5Ff2977781C51DcdE9C20f4ECCf   
 
 ------------------------- 
