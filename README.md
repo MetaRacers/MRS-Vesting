@@ -1,4 +1,4 @@
-# The address owner for MRS claim
+# The smart contract lock and address owner for MRS claim
 
 1.    28% token game reward:  
 **SmartContract :** 0x08B59BD90a0ce51EfdcEB6066D1854204d41DE9b <br />
